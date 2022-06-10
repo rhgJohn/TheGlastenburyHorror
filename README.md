@@ -1,6 +1,8 @@
 # TheGlastenburyHorror
-An original lovecraftian themed CYOA story made using Twinery set in southern Vermont in modern time.
+An original lovecraftian themed voting story written for Spindle.
 
-June 8th 2022
-- Started repo, uploaded latest version of html for Twinery version of the adventure, attempted to copy/paste link to GH as well.
+June 10th 2022
+- Cleared content, learning to use in conjuction with Spindle folks, re-uploads of latest versions.
+
+
 
